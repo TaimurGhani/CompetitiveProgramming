@@ -1,0 +1,4 @@
+file = open("A-large-practice.in", "r")
+loop = int(file.readline())
+for i in range(loop):
+    sP = file.readline()
